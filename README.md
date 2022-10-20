@@ -1,5 +1,5 @@
 # Calculator
- This is a simple calculator created with tkinter library.
+ This is a simple calculator created with python tkinter library.
  
  
  
